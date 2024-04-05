@@ -1,5 +1,4 @@
 # Projet Postagram: Un clone de Instagram (Backend Achevé !)
-=============================================================
 Ceci est le backend de Postagram développé avec Django et Django Rest Framework.
 
 ## Configuration
